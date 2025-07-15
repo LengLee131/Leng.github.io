@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LEE RESTAURANT - Location & Contact</title>
+    <link href="css/LeeRestuarantcss.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <h1>Location & Contact</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="lee_restaurant.html">Lee Restaurant</a></li>
+                <li><a href="history.html">History</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Find Us</h2>
+        <p>Visit us at:</p>
+        <address>
+            <p>Lee Restaurant</p>
+            <p>8340 W Appleton Ave, Milwaukee, WI 53218</p>
+        </address>
+        <h3>Opening Hours</h3>
+        <ul>
+            <li>Monday - Sunday: 8:00 AM - 7:00 PM</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Lee Restaurant</p>
+    </footer>
+</body>
+</html>
